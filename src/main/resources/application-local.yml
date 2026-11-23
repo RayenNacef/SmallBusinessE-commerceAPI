@@ -1,0 +1,7 @@
+# Local development only. Never activate this profile outside your own machine.
+app:
+  jwt:
+    secret: local-development-secret-not-for-production-use
+  admin:
+    email: admin@smallshop.local
+    password: admin-password

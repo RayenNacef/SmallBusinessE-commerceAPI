@@ -1,0 +1,6 @@
+app:
+  jwt:
+    secret: test-secret-that-is-long-enough-for-hs256
+  admin:
+    email: admin@smallshop.test
+    password: admin-password
